@@ -1,4 +1,5 @@
 ![Device with cover installed](Photos/Cover_Installed.jpg)
+![Device schematic](Photo/Schematic.jpg)
 # What is this?
 
 This is a simple passive device to allow you to turn off the devices connected to a switched outlet in your home from the general vicinity of the outlet, whilst also allowing you to remotely turn them back on.
@@ -23,14 +24,18 @@ While that is certainly another solution to this problem, this solution has the 
 
 Great! Here's how it works:
 
-    1. Plug the device in between the switched outlet and your load. (typically lights)
-    2. Turn on the lights from the switched outlet like normal.
-    3. Get cozy in bed with your favorite book.
-    4. Once it's time for bed, simply press the switch on the device. The lights will turn off.
-    5. In order to turn the lights back on in the morning, simply toggle the light switch off and on and the lights will work normally again.
+1. Plug the device in between the switched outlet and your load. (typically lights)
+2. Turn on the lights from the switched outlet like normal.
+3. Get cozy in bed with your favorite book.
+4. Once it's time for bed, simply press the switch on the device. The lights will turn off.
+5. In order to turn the lights back on in the morning, simply toggle the light switch off and on and the lights will work normally again.
 
 # What if I turn the lights off too early and need to turn them back on?
 
 Don't do that. However, if this is typically a problem for you, it would be fairly simple to add another switch to un-latch the relay.
+
+# Why is it so big?
+
+Because it was designed to fit a relay and project box that was cheap, easy to modify and in stock on DigiKey. Feel free to modify it to suit your needs if required.
 
 ![Device with cover removed](Photos/Cover_Removed.jpg)
