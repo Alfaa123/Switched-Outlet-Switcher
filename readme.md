@@ -1,5 +1,5 @@
 ![Device with cover installed](Photos/Cover_Installed.jpg)
-![Device schematic](Photo/Schematic.jpg)
+![Device schematic](Photos/Schematic.jpg)
 # What is this?
 
 This is a simple passive device to allow you to turn off the devices connected to a switched outlet in your home from the general vicinity of the outlet, whilst also allowing you to remotely turn them back on.
