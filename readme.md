@@ -1,4 +1,4 @@
-![Device with cover removed](Photos/Cover_Removed.jpg)
+![Device with cover installed](Photos/Cover_Installed.jpg)
 # What is this?
 
 This is a simple passive device to allow you to turn off the devices connected to a switched outlet in your home from the general vicinity of the outlet, whilst also allowing you to remotely turn them back on.
@@ -32,3 +32,5 @@ Great! Here's how it works:
 # What if I turn the lights off too early and need to turn them back on?
 
 Don't do that. However, if this is typically a problem for you, it would be fairly simple to add another switch to un-latch the relay.
+
+![Device with cover removed](Photos/Cover_Removed.jpg)
